@@ -1,4 +1,6 @@
-# Hi 👋, I'm Snehaa Shri Hari
+# Hi 👋 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=F7B435&width=435&lines=This+is+Snehaa+Shri+Hari)](https://git.io/typing-svg)
+
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehaashrihari>) 
 
 ## 👩‍💻 About me
